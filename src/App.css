@@ -1,0 +1,17 @@
+.cortado {
+  text-decoration: line-through;
+}
+
+.valor {
+  color: #F00;
+  font-size: 30px;
+}
+
+.card {
+  margin-bottom: 15px;
+}
+
+a{
+  
+  color: black;
+}
