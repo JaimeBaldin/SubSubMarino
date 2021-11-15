@@ -22,7 +22,7 @@ export const Pesquisa = () => {
                 </p>
                 <h2 className="text-center">Next.JS</h2>
                 <p>
-                Next.js é um framework para React. E ele trabalha quase que do mesmo jeito que o Gatsby.JS, cada um tem sua particularidade porém os dois facilitam quando o assunto é o SEO.
+                Next.js é um framework para React e ele trabalha quase que do mesmo jeito que o Gatsby.JS, cada um tem sua particularidade porém os dois facilitam quando o assunto é o SEO.
                 Para gerar toda a página para o browser, o Next utiliza um servidor Node.js. Usa-se Node.js nesse cenário apenas por entender Javascript nativamente.
                 Dessa forma, o Next consegue entregar a página pronta para o Browser, ou seja, todo o HTML, CSS e Javascript.
                 Com essa funcionalidade, a página é retornada para o usuário toda montada. Pensando que esse usuário seja um motor de busca, todo o conteúdo da página retorna, dispondo conteúdo para ser indexado.
